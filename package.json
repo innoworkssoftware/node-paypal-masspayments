@@ -12,7 +12,6 @@
   "devDependencies": {
     "vows": "0.7.0"
   },
-  "engines": { "node": ">= 0.4.x < 0.8.0" },
   "repository": { 
     "type": "git",
     "url": "git://github.com/mateodelnorte/node-paypal-masspayments.git" 
